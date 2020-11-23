@@ -1,4 +1,4 @@
-# sortandshuffle
+# Shuffle and Sort
 
 ## UI assignment
 This application is to shuffle and sort the numbers in a grid.
